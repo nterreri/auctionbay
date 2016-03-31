@@ -6,7 +6,7 @@ This is a working replica of eBay (looking a little nicer) built with PHP and My
 - Finally, the databse schema is available on Vertabelo. You can have a look [here](https://my.vertabelo.com/public-model-view/hQaOq2J4GE6xQfuALRgJjFt9dLCko1HSHHI8kapj2B3xVHWGva408JTR0L8nRuvQ?x=2843&y=2930&zoom=0.6500).
 
 ## How to run it
-Well why would you want to? You need to create a MySQL database based on the schema on the link above and have XAMPP (or any LAMP stack, really) installed. Kind of overhead. Just watch the video or visit the live demo instead.
+You would need to create a MySQL database based on the schema on the link above and have XAMPP (or any LAMP stack, really) installed. It's easier to watch the video or visit the live demo instead.
 
 ## Features implemented
 1. Users can register with the system and create accounts. Users have roles of seller or buyer with different privileges.
